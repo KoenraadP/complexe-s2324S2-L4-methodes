@@ -75,6 +75,19 @@ namespace Methodes_L4
             {
                 return "Geen terugbetaling nodig";
             }
+
+            // als de klant te veel betaald heeft
+            if (paid > cost)
+            {
+                // hoe veel moet de klant terug krijgen
+                decimal refund = paid - cost;
+                return "De kassier moet " + refund + " terugbetalen.";
+            }
+
+            // als de klant te weinig betaald heeft
+            // hoe veel moet de klant nog betalen
+            decimal extra = cost - paid;
+            return "De klant moet nog " + extra + " betalen";
         }
     }
 }
