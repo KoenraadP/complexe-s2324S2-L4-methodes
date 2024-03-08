@@ -40,6 +40,11 @@ namespace Methodes_L4
             Console.WriteLine(IsConsonant(third) ?
                 third + " is een medeklinker" :
                 third + " is geen medeklinker");
+
+            // uittesten van Refund methode
+            Console.WriteLine(Refund(10, 5)); // te veel betaald
+            Console.WriteLine(Refund(5, 10)); // te weinig betaald
+            Console.WriteLine(Refund(10, 10)); // exact genoeg betaald
         }
 
         // methode om te checken of een
