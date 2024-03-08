@@ -62,5 +62,19 @@ namespace Methodes_L4
             // als er geen match gevonden werd, return false
             return false;
         }
+
+        // methode die aangeeft of een klant
+        // genoeg, te weinig of te veel betaald heeft
+        // en wat de kassier eventueel nog moet teruggeven
+        // paid = wat heeft de klant betaald
+        // cost = wat kost het product
+        private static string Refund(decimal paid, decimal cost)
+        {
+            // als de klant exact correct betaald heeft
+            if (paid == cost)
+            {
+                return "Geen terugbetaling nodig";
+            }
+        }
     }
 }
