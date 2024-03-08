@@ -1,0 +1,8 @@
+C:\Users\koenraad.pecceu\Documents\complexe\Les04\Methodes_L4\Methodes_L4\bin\Debug\Methodes_L4.exe.config
+C:\Users\koenraad.pecceu\Documents\complexe\Les04\Methodes_L4\Methodes_L4\bin\Debug\Methodes_L4.exe
+C:\Users\koenraad.pecceu\Documents\complexe\Les04\Methodes_L4\Methodes_L4\bin\Debug\Methodes_L4.pdb
+C:\Users\koenraad.pecceu\Documents\complexe\Les04\Methodes_L4\Methodes_L4\obj\Debug\Methodes_L4.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\complexe\Les04\Methodes_L4\Methodes_L4\obj\Debug\Methodes_L4.csproj.SuggestedBindingRedirects.cache
+C:\Users\koenraad.pecceu\Documents\complexe\Les04\Methodes_L4\Methodes_L4\obj\Debug\Methodes_L4.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\complexe\Les04\Methodes_L4\Methodes_L4\obj\Debug\Methodes_L4.exe
+C:\Users\koenraad.pecceu\Documents\complexe\Les04\Methodes_L4\Methodes_L4\obj\Debug\Methodes_L4.pdb
