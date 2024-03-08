@@ -10,6 +10,15 @@ namespace Methodes_L4
     {
         static void Main(string[] args)
         {
+
+        }
+
+        // methode om te checken of een
+        // opgegeven karakter een medeklinker is
+        private static bool IsConsonant(char c)
+        {
+            // als het geen medeklinker is, return false
+            return false;
         }
     }
 }
