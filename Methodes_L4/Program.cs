@@ -15,7 +15,7 @@ namespace Methodes_L4
             char third = 'b'; // true
 
             // controleren of first een medeklinker is
-            if (IsConsonant(first))
+            /*if (IsConsonant(first))
             {
                 // als de methode 'true' uitkomt
                 Console.WriteLine(first +
@@ -26,7 +26,20 @@ namespace Methodes_L4
                 // als de methode 'false' uitkomt
                 Console.WriteLine(first +
                     " is geen medeklinker");
-            }
+            }*/
+
+            // alternatief met ?
+            Console.WriteLine(IsConsonant(first) ?
+                first + " is een medeklinker" :
+                first + " is geen medeklinker");
+
+            Console.WriteLine(IsConsonant(second) ?
+                second + " is een medeklinker" :
+                second + " is geen medeklinker");
+
+            Console.WriteLine(IsConsonant(third) ?
+                third + " is een medeklinker" :
+                third + " is geen medeklinker");
         }
 
         // methode om te checken of een
